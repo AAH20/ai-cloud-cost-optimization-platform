@@ -1,0 +1,8 @@
+provider,billing_account,charge_date,service,resource_id,owner,cost_center,currency,billed_cost,effective_cost,usage_quantity,pricing_quantity,pricing_unit,contract_rate,workload,business_value
+azure,billing-1,2026-01-01,Virtual Machines,vm-checkout,commerce,cc-100,USD,10,10,10,10,hours,1,checkout,120
+azure,billing-1,2026-01-02,Virtual Machines,vm-checkout,commerce,cc-100,USD,10,10,10,10,hours,1,checkout,125
+azure,billing-1,2026-01-03,Virtual Machines,vm-checkout,commerce,cc-100,USD,10,10,10,10,hours,1,checkout,121
+azure,billing-1,2026-01-04,Virtual Machines,vm-checkout,commerce,cc-100,USD,40,40,10,10,hours,1,checkout,119
+aws,billing-1,2026-01-04,EC2,i-analytics,data,unallocated,USD,18,18,10,10,hours,1.5,analytics,80
+gcp,billing-1,2026-01-04,Compute Engine,gpu-inference,ai,cc-300,USD,25,25,5,5,hours,5,inference,200
+
